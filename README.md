@@ -1,7 +1,5 @@
 ### <samp>&gt; Hola, Soy <a href="https://juansesanchezl.github.io/me/" target="_blank">Juan Sebastian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jsanchezl12)
-
 ¡Bienvenido a mi perfil de GitHub!  
 Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías y lenguajes de programación.
 
