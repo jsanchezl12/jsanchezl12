@@ -7,7 +7,6 @@ Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecno
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://juansesanchezl.github.io/me/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JuanseSanchezL)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/juansesanchezl/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-square&logo=notion&logoColor=white)](https://juansesanchezl.notion.site/juansesanchezl/juansesanchezl-c64299260ba84d5285833b526cddc0c7)
 
 <!--
 **jsanchezl12/jsanchezl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
